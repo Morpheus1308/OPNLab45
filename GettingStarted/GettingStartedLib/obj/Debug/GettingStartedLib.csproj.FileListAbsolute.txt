@@ -1,0 +1,6 @@
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csprojAssemblyReference.cache
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.pdb

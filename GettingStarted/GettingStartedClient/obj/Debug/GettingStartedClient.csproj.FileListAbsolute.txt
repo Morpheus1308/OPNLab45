@@ -1,0 +1,6 @@
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\Morph\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
